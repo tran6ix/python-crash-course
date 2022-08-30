@@ -1,4 +1,3 @@
-
 bicycles = ['trek', 'mongoose', 'nike', 'adidas', 'redline']
 print(bicycles)
 
