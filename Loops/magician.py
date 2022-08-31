@@ -1,7 +1,7 @@
 magicians = ['alice', 'david', 'carolina']
 for magician in magicians:
-    print(magician)
+     print(f"{magician.title()} can perform tonight.")
 print('\n')
 tricks = ["hocus pocus", 'abracadabra', 'wingardium leviosa']
 for trick in tricks :
-    print(trick)
+    print(f"{magician.title()} can perform {trick}")
